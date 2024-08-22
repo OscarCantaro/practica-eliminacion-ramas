@@ -1,1 +1,0 @@
-print("Archivo 1 muestra una estrella")
