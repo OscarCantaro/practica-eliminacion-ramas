@@ -1,0 +1,1 @@
+print("Archivo 2 muestra dos estrellas")
