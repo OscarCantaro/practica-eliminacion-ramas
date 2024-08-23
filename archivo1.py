@@ -1,1 +1,1 @@
-print("Archivo 1 muestra una estrella")
+print("Hola mundo en Python :)")
