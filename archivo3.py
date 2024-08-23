@@ -1,1 +1,1 @@
-print("Archivo 3 muestra tres estrellas")
+print("Archivo 3 muestra tres estrellas fugases")
